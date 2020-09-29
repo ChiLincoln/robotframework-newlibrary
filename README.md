@@ -4,17 +4,17 @@
 
 ## Contents
 
-- [Introduction](https://github.com/serhatbolsu/robotframework-appiumlibrary#introduction)
-- [Keyword Documentation](https://github.com/serhatbolsu/robotframework-appiumlibrary#keyword-documentation)
-- [Installation](https://github.com/serhatbolsu/robotframework-appiumlibrary#installation)
-- [Device Setup](https://github.com/serhatbolsu/robotframework-appiumlibrary#device-setup)
-- [Usage](https://github.com/serhatbolsu/robotframework-appiumlibrary#usage)
-- [Contributing](https://github.com/serhatbolsu/robotframework-appiumlibrary#contributing)
-- [Project Contributors](https://github.com/serhatbolsu/robotframework-appiumlibrary#project-contributors)
+- [简介](https://github.com/serhatbolsu/robotframework-appiumlibrary#introduction)
+- [关键字文档](https://github.com/serhatbolsu/robotframework-appiumlibrary#keyword-documentation)
+- [安装与导入](https://github.com/serhatbolsu/robotframework-appiumlibrary#installation)
+- [终端设置](https://github.com/serhatbolsu/robotframework-appiumlibrary#device-setup)
+- [调用实例](https://github.com/serhatbolsu/robotframework-appiumlibrary#usage)
+- [贡献](https://github.com/serhatbolsu/robotframework-appiumlibrary#contributing)
+- [项目贡献者](https://github.com/serhatbolsu/robotframework-appiumlibrary#project-contributors)
 
 
 
-## [Introduction](https://github.com/serhatbolsu/robotframework-appiumlibrary#id2)
+## [简介](https://github.com/serhatbolsu/robotframework-appiumlibrary#id2)
 
 （简单介绍测试库。）
 
@@ -24,7 +24,7 @@ It uses [Appium](http://appium.io/) to communicate with Android and iOS applicat
 
 
 
-## [Keyword Documentation](https://github.com/serhatbolsu/robotframework-appiumlibrary#id3)
+## [关键字文档](https://github.com/serhatbolsu/robotframework-appiumlibrary#id3)
 
 （链接到Libdoc.html页面。）
 
@@ -32,7 +32,7 @@ See [Keyword Documentation](http://serhatbolsu.github.io/robotframework-appiumli
 
 
 
-## [Installation Or Import](https://github.com/serhatbolsu/robotframework-appiumlibrary#id4)
+## [安装与导入](https://github.com/serhatbolsu/robotframework-appiumlibrary#id4)
 
 （安装、导入测试库的命令。）
 
@@ -46,7 +46,7 @@ See [Robot Framework installation instructions](https://github.com/robotframewor
 
 
 
-## [Device Setup](https://github.com/serhatbolsu/robotframework-appiumlibrary#id5)
+## [终端设置](https://github.com/serhatbolsu/robotframework-appiumlibrary#id5)
 
 （运行测试库之前，设备需要做的准备。）
 
@@ -54,7 +54,7 @@ After installing the library, you still need to setup an simulator/emulator or r
 
 
 
-## [Usage](https://github.com/serhatbolsu/robotframework-appiumlibrary#id6)
+## [调用实例](https://github.com/serhatbolsu/robotframework-appiumlibrary#id6)
 
 （调用测试库实例。）
 
@@ -112,13 +112,13 @@ The above example is single file test case, more examples can be found in a [sam
 
 
 
-## [Contributing](https://github.com/serhatbolsu/robotframework-appiumlibrary#id7)
+## [贡献](https://github.com/serhatbolsu/robotframework-appiumlibrary#id7)
 
 Fork the project, make a change, and send a pull request!
 
 
 
-## [Project Contributors](https://github.com/serhatbolsu/robotframework-appiumlibrary#id8)
+## [项目贡献者](https://github.com/serhatbolsu/robotframework-appiumlibrary#id8)
 
 - [Serhat Bolsu](https://github.com/serhatbolsu)
 - [William Zhang](https://github.com/jollychang)
