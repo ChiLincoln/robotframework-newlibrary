@@ -4,13 +4,13 @@
 
 ## Contents
 
-- [简介](https://github.com/ChiLincoln/robotframework-appiumlibrary#introduction)
-- [关键字文档](https://github.com/ChiLincoln/robotframework-appiumlibrary#keyword-documentation)
-- [安装与导入](https://github.com/ChiLincoln/robotframework-appiumlibrary#installation)
-- [终端设置](https://github.com/ChiLincoln/robotframework-appiumlibrary#device-setup)
-- [调用实例](https://github.com/ChiLincoln/robotframework-appiumlibrary#usage)
-- [贡献](https://github.com/ChiLincoln/robotframework-appiumlibrary#contributing)
-- [项目贡献者](https://github.com/sChiLincoln/robotframework-appiumlibrary#project-contributors)
+- [简介](https://github.com/ChiLincoln/robotframework-appiumlibrary#简介)
+- [关键字文档](https://github.com/ChiLincoln/robotframework-appiumlibrary#关键字文档)
+- [安装与导入](https://github.com/ChiLincoln/robotframework-appiumlibrary#安装与导入)
+- [终端设置](https://github.com/ChiLincoln/robotframework-appiumlibrary#终端设置)
+- [调用示例](https://github.com/ChiLincoln/robotframework-appiumlibrary#调用示例)
+- [贡献](https://github.com/ChiLincoln/robotframework-appiumlibrary#贡献)
+- [项目贡献者](https://github.com/sChiLincoln/robotframework-appiumlibrary#项目贡献者)
 
 
 
@@ -54,7 +54,7 @@ After installing the library, you still need to setup an simulator/emulator or r
 
 
 
-## [调用实例](https://github.com/ChiLincoln/robotframework-newibrary#id6)
+## [调用示例](https://github.com/ChiLincoln/robotframework-newibrary#id6)
 
 （调用测试库实例。）
 
